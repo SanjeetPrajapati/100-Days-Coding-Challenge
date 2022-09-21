@@ -2,20 +2,21 @@
 <html>
 
 <body>
-	<form action="">
+	<!-- <form action=""> -->
 		<input type="text" name="" id="input">
 		<button id="add">Add</button>
-		<input type="reset" value="Clear">
-	</form>
-	<div id="content">hi</div>
+		<input type="reset" id="rst" value="Clear">
+	<!-- </form> -->
+	<br><br><br>
+	<span  style="color: rgb(10, 179, 240);font-size: 15vh; background-color: rgba(0, 0, 0, 0.113);" id="content"></span>
 
 	<script>
 		let input = document.getElementById("input");
 		document.getElementById("add").addEventListener("click", function () {
-		document.getElementById("content").innerText= input.value ;
-		
-		
-
+		document.getElementById("content").innerText= input.value;
+		});
+		document.getElementById("rst").addEventListener("click", function () {
+		document.getElementById("input").value= "";
 		});
 	</script>
 </body>
