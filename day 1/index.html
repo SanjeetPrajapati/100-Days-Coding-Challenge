@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>colour selector</title>
+    <style>
+        h3{
+            text-align: right;
+            padding-top: 70vh;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- wrote by SANJEET -->
+    <h1>Select colour to display on entire page</h1>
+    <input type="color" name="" id="clr">
+    <input type="submit" id="sbm" value="submit">
+    <h3>designed by SANJEET</h3>
+    <script>
+        let clr=document.getElementById("clr");
+        document.getElementById("sbm").addEventListener("click",function()
+        {
+            document.body.style.backgroundColor=clr.value;
+        })
+        
+        
+    </script>
+</body>
+</html>
