@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <input type="number" name="" id="1">
+    <input type="number" name="" id="2">
+    <!-- <input type="text" name="" id="1"> -->
+    <!-- <input type="text" name="" id="2"> -->
+    <input type="submit" value="Add" id="sbt">
+    <div id="store"></div>
+    <script>
+        let first = parseInt(document.getElementById("1")).value;
+        let second = parseInt(document.getElementById("2")).value;
+        document.getElementById("add").addEventListener("click", function () {
+            let sum = first + second;
+            
+            document.getElementById("store").innerHTML =console.log (sum);
+        })
+
+    </script>
+</body>
+
+</html>
