@@ -5,32 +5,32 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>day 4</title>
 </head>
 
 <body>
-    <input id="one">
-    <input id="two">
-    <!-- <input type="text" name="" id="1"> -->
-    <!-- <input type="text" name="" id="2"> -->
-    <!-- <input type="submit" value="Add" id="sbt"> -->
+    <input id="one" type="text">
+    <input id="two" type="text">
+    
     <button id="add">add</button>
-    <input id="store">
+    <!-- <input id="store"> -->
+    <span id="store"></span>
     <script>
-        // let first = parseInt(document.getElementById("one").value);
-        // let second = parseInt(document.getElementById("two").value);
-        // document.getElementById("add").addEventListener("click", function () {
-        //     const sum = first + second;
-
-        //     document.getElementById("store").textContent = sum.value;
-        // })
-        var numOne, numTwo, sum;
-        numOne = parseInt(document.getElementById("one").value);
-        numTwo = parseInt(document.getElementById("two").value);
-        parseInt(sum) = numOne + numTwo;
+        const first = parseInt(document.getElementById("one").value);
+        const second = parseInt(document.getElementById("two").value);
         document.getElementById("add").addEventListener("click", function () {
-            document.value = sum;
+            const sum = first + second;
+
+            // document.getElementById("store").innerText= sum;
+            document.getElementById(store).textContent= sum;
         })
+        // var numOne, numTwo, sum;
+        // numOne = parseInt(document.getElementById("one").value);
+        // numTwo = parseInt(document.getElementById("two").value);
+        // parseInt(sum) = numOne + numTwo;
+        // document.getElementById("add").addEventListener("click", function () {
+        //     document.value = sum;
+        // })
 
 
     </script>
