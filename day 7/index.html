@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>day 5</title>
+    <style>
+        body{
+           
+            background-color: black;
+            font-size: 15vh;
+           color: aliceblue;
+           text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <!--  Sanjeet -->
+    <p style="text-align: left; font-size: 3vh;">SANJEET</p>
+    <h3 style="font-size: 5vh;" >Current Time</h3>
+    
+    <span id="hour"></span>
+    <span >:</span>
+    <span id="min"></span>
+    <span >:</span>
+    <span id="sec"></span>
+    <p style="text-align: right ;padding-top: 50vh; font-size: 3.5vh;" >refresh the page</p>
+    
+    <script>
+        var clock = new Date();
+        document.getElementById("hour").innerHTML = clock.getHours();
+        document.getElementById("min").innerHTML = clock.getMinutes();
+        document.getElementById("sec").innerHTML = clock.getSeconds();
+
+    </script>
+</body>
+</html>
