@@ -7,3 +7,7 @@ day 3 : Adding 2 numbers
 day 4 : make some changes in adding 2 number .but I am getting some error
 
 day 5: sum of two number by only JS( java script)
+
+day 6 : multiplication of num js 
+
+day 7 : current time clock 
