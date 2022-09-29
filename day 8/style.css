@@ -1,0 +1,15 @@
+body {
+
+    background-color: black;
+    font-size: 15vh;
+    color: rgb(245, 245, 15);
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    font-size: 3vh;
+}
+h3{
+    font-size: 5vh;
+}

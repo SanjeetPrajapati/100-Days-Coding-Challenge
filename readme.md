@@ -11,3 +11,5 @@ day 5: sum of two number by only JS( java script)
 day 6 : multiplication of num js 
 
 day 7 : current time clock 
+
+day 8 : DIGITAL CLOCK 
