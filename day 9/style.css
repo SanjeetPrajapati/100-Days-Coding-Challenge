@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+form{
+    border: 2px solid black;
+    height: 75vh;
+    width: 75vw;
+    margin-left: 12vw;
+    margin-top: 12vh;
+    background-color: blanchedalmond;
+    font-size: 7vh;
+    padding-left: 5vw;
+    
+}
+form input{
+    width:55vw;
+    height: 4.5vh;
+}
+form select{
+    width: 30vw;
+    height: 5vh;
+    font-size: 3vh;
+}
