@@ -13,3 +13,5 @@ day 6 : multiplication of num js
 day 7 : current time clock 
 
 day 8 : DIGITAL CLOCK 
+
+dayy 9 : Academic details
