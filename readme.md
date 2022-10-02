@@ -14,4 +14,6 @@ day 7 : current time clock
 
 day 8 : DIGITAL CLOCK 
 
-dayy 9 : Academic details
+day 9 : Academic details
+
+day 10 : a readme file added
