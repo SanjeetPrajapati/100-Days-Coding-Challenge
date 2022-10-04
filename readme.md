@@ -17,3 +17,5 @@ day 8 : DIGITAL CLOCK
 day 9 : Academic details
 
 day 10 : a readme file added
+
+day 11 : PROMPT command in js  , sum using some inbuilt function ( alert , confirm ...)
