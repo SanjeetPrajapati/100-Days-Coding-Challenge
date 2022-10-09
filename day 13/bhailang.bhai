@@ -1,0 +1,13 @@
+
+hi bhai // starting
+bol bhai "__SANJEET__"; // printing 
+
+ bhai ye hai first = 12; // veriable
+ bhai ye hai second = 18;
+
+bhai ye hai sum = first + second; //adding both
+
+ bol bhai "sum of " , first , "and ", second ,"is" , sum; // printing
+
+bye bhai // ending
+// BTW  language is cool .😅
