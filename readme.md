@@ -25,3 +25,5 @@ day 12 : CALCULATOR BY CPP USING SWITCH CASE
 day 13 : Bhailang 
 
 day 14 : Calculator using cpp
+
+day 15 : Swap 2 numbers 😅
