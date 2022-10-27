@@ -27,3 +27,6 @@ day 13 : Bhailang
 day 14 : Calculator using cpp
 
 day 15 : Swap 2 numbers 😅
+
+day 16 : EVEN ODD
+
