@@ -31,3 +31,5 @@ day 15 : Swap 2 numbers 😅
 day 16 : EVEN ODD
 
 day 17 : Largest of numbers
+
+day 18 : Sum of given numbers
