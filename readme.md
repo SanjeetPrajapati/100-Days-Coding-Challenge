@@ -33,3 +33,5 @@ day 16 : EVEN ODD
 day 17 : Largest of numbers
 
 day 18 : Sum of given numbers
+
+day 19 : Factorial of a number
