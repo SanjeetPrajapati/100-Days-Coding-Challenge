@@ -35,3 +35,5 @@ day 17 : Largest of numbers
 day 18 : Sum of given numbers
 
 day 19 : Factorial of a number
+
+day 20 : cpp class and object
