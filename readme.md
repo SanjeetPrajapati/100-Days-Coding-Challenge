@@ -41,3 +41,5 @@ day 20 : cpp class and object
 day 21 : Method inside a class
 
 day 22 : Outside method cpp
+
+day 23 : Factorial using outside method cpp (oops)
