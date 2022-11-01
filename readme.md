@@ -45,3 +45,5 @@ day 22 : Outside method cpp
 day 23 : Factorial using outside method cpp (oops)
 
 day 24 : Sum of 2 numbers Using JAVA
+
+day 25 : FAIL PASS java
