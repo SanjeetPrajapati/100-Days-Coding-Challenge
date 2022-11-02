@@ -1,0 +1,1 @@
+## Sum of even number till "Users input " by java ;
