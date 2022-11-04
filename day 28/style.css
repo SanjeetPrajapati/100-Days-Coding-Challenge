@@ -1,0 +1,40 @@
+#screen{
+    
+    height: 25vh;
+    width: 50vw;
+    background-color: rgb(200, 228, 200);
+    border: 3px solid red;
+   
+    margin-top: 25vh;
+    margin-left: 25vw;
+}
+.box {
+    display: flexbox;
+    height: 50vh;
+    width: 50vw;
+    background-color: rgb(200, 228, 200);
+    border: 3px solid red;
+   
+    /* margin-top: 25vh; */
+    margin-left: 25vw;
+
+}
+.box table{
+    border: 3px solid orange;
+    height: 50vh;
+    width: 50vw;
+    padding: 2px;
+    background-color: azure;
+    /* margin-left: 25vh; */
+}
+tr td {
+    border: 3px solid rgb(178, 32, 32);
+    text-align: center;
+    font-size: 3vh;
+}
+tr th{
+    /* font-size: 5vh; */
+    border: 3px solid gray;
+    /* padding-bottom: 19px; */
+    /* text-align: center; */
+}
