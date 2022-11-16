@@ -55,3 +55,5 @@ day 27 : Sum of even number
 day 28 : making calculator as an app 
 
 day 29 : Calculator in process
+
+day 30 : Arithmatic operation using diffrent buttons( sum , diff, multi, div..)

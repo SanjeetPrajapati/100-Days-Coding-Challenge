@@ -1,0 +1,35 @@
+#body {
+    font-size: 3vh;
+    background-color: azure;
+    /* display: flexbox; */
+    width: 50vw;
+    height: fit-content;  
+      /* padding: 5vh; */
+
+    padding-left: 5vw;
+    border: 2px solid black;
+    margin-left: 20vw;
+    margin-top: 19vh;
+    padding-bottom: 1vh;
+    /* flex-wrap: wrap; */
+}
+h1{
+    text-align: center;
+    color: rgb(242, 125, 23);
+}
+
+#first, #second  {
+  margin: 2vh;
+}
+button{
+    background-color:rgb(190, 235, 215);
+    height: 5vh;
+    margin: 2vw;
+    
+    font-size: larger;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(252, 252, 150);
+
+}
