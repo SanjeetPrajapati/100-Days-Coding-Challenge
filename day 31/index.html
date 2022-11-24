@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>calci</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="calci.png" type="image/x-icon">
+</head>
+
+<body>
+    <div class="calci">
+        
+        <br>
+        <div id="body">
+            <div id="h1">Arithmatic Operator using select key</div>
+            <br>
+            <label for="first">Enter First number :
+                <input id="first">
+            </label>
+            <br><br>
+            <label for="Operator"> Select Operator : </label>
+            <select name="Operator" id="Operator">
+                <option value="select">select</option>
+                <option value="+">+</option>
+                <option value="-">-</option>
+                <option value="/">/</option>
+                <option value="*">*</option>
+            </select>
+            <br><br>
+            <label for="second">Enter Second number :
+                <input id="second">
+            </label>
+            <br>
+            <br>
+            <button onclick="ans()">=</button>
+            <br><br>
+            <span style="background-color: greenyellow ; " id="display">
+
+            </span>
+
+            <input type="text" id="output">
+
+            <script src="calculator.js"></script>
+        </div>
+        <br>
+        <span id="sanjeet" >Design by " Sanjeet "</span>
+</body>
+
+</html>

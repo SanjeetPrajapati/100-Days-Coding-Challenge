@@ -1,0 +1,70 @@
+body {
+    /* border: 2px solid red; */
+    width: 100vw;
+    font-size: 5vh;
+    height: 100%;
+    display: flex;
+    background-color: rgb(75, 233, 251);
+    /* align-self: center;
+    align-content: center;
+    
+    text-align: center; */
+    justify-content: center;
+    /* padding-top: 50vh; */
+    /* margin-top: 20%; */
+    /* height: 50vh; */
+
+    /* border: 5px solid blue; */
+
+
+}
+
+.calci {
+    background-color: rgb(251, 251, 75);
+    /* height: 50vh; */
+    position: relative;
+    /* top: 50%; */
+    border: 5px solid blue;
+    padding: 50px;
+}
+
+
+
+#sanjeet {
+
+    position: relative;
+    text-align: right;
+    left: 15%;
+    font-size: 3.9vh;
+    border: 5px solid rgb(0, 195, 255);
+    box-shadow: 10px 15px 15px rgba(0, 0, 0, 0.478);
+   
+
+}
+input{
+    
+    height: 3.5vh;
+    font-size: 3vh;
+    /* width: max-content; */
+    width: -webkit-fill-available;
+
+}
+#Operator{
+    width: 25vw;
+    height: 5vh;
+    font-size: 4vh;
+}
+button{
+    height: 6vh;
+    width: 15vw;
+    
+   position: relative;
+   left: 39%;
+   font-size: 5vh;
+
+}
+button:hover {
+    cursor: pointer;
+    background-color: rgb(144, 249, 113);
+
+  }
