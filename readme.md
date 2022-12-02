@@ -59,3 +59,5 @@ day 29 : Calculator in process
 day 30 : Arithmatic operation using diffrent buttons( sum , diff, multi, div..)
 
 day 31 : Arithmatic operation using select syntax
+
+day 32 :  calculator using html css JS
