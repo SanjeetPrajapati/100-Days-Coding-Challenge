@@ -1,20 +1,20 @@
-day 1 : " COLOUR PICKER "  after selecting the colour , the colour will be on entire body.
+day 01 : " COLOUR PICKER "  after selecting the colour , the colour will be on entire body.
 
-day 2 :  "INPUT DISPALY"  taking input from user and displaying.
+day 02 :  "INPUT DISPALY"  taking input from user and displaying.
 
-day 3 : Adding 2 numbers
+day 03 : Adding 2 numbers
 
-day 4 : make some changes in adding 2 number .but I am getting some error
+day 04 : make some changes in adding 2 number .but I am getting some error
 
-day 5: sum of two number by only JS( java script)
+day 05: sum of two number by only JS( java script)
 
-day 6 : multiplication of num js 
+day 06 : multiplication of num js 
 
-day 7 : current time clock 
+day 07 : current time clock 
 
-day 8 : DIGITAL CLOCK 
+day 08 : DIGITAL CLOCK 
 
-day 9 : Academic details
+day 09 : Academic details
 
 day 10 : a readme file added
 
@@ -61,3 +61,5 @@ day 30 : Arithmatic operation using diffrent buttons( sum , diff, multi, div..)
 day 31 : Arithmatic operation using select syntax
 
 day 32 :  calculator using html css JS
+
+day 33 : are u dumb ?

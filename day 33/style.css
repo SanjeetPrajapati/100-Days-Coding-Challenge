@@ -1,0 +1,65 @@
+.body {
+    position: absolute;
+    /* transform: translate(-50%, -50%); */
+    top: 10vh;
+    left: 10vw;
+
+    margin: auto;
+    padding: auto;
+    border: 2px solid black;
+    height: 80vh;
+    width: 80vw;
+    background-color: rgb(213, 251, 241);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(244, 47, 12)
+}
+
+span {
+    border: 2px solid black;
+    background-color: rgb(244, 240, 240);
+    border-radius: 3px;
+
+}
+
+#yes {
+    position: relative;
+    left: 40%;
+    top: 2%;
+    border-radius: 10px;
+    width: 20vw;
+    font-size: 3vh;
+}
+
+#yes:hover {
+    cursor: pointer;
+}
+
+.scr {
+    display: flex;
+    flex-wrap: nowrap;
+    position: relative;
+    top: 5%;
+}
+
+.scr div {
+    display: flex;
+   
+    /* border: 2px solid red; */
+    height: 50vh;
+    width: 40vw;
+}
+
+#no {
+    height: 5vh;
+    width: 9vw;
+    position: relative;
+    align-items: center;
+    align-self: center;
+    left: 25%;
+
+
+
+}
