@@ -63,3 +63,5 @@ day 31 : Arithmatic operation using select syntax
 day 32 :  calculator using html css JS
 
 day 33 : are u dumb ?
+
+day 34 : operators in python
