@@ -67,3 +67,5 @@ day 33 : are u dumb ?
 day 34 : operators in python
 
 day 35 : number guessing game using python
+
+day 36 : Stop Watch
