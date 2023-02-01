@@ -42,7 +42,7 @@ var Inter;
     // clearInterval(Inter);
     // Inter = setInterval(Start, 10);
     // Inter = setInterval(Start, 10);
-    intervalId = setTimeout(Start, 10);
+    intervalId = setTimeout(Start, 100);
 
     // setTimeout(Start,10)
     // Stop() 
