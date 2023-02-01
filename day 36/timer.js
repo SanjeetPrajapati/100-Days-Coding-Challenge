@@ -52,5 +52,17 @@ var Inter;
 
 function Stop() {
     clearTimeout(intervalId);
+    
 
+}
+
+function Reset(){
+    clearTimeout(intervalId);
+    // ms=00;
+    document.getElementById("ms").innerHTML = "00";
+    // sec=00;
+    document.getElementById("sec").innerHTML = "00";
+    document.getElementById("min").innerHTML = "00";
+    // min=00;
+    console.log("reset button")
 }
